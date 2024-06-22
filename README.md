@@ -1,4 +1,4 @@
-###Skye - an advanced voice chatbot 
+### Skye - an advanced voice chatbot 
 
 <a name="readme-top"></a>
 <!--
