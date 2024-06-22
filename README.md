@@ -1,6 +1,6 @@
 Sure, I’ll make sure to keep the Python environment setup consistent throughout the template. Here is the updated README:
 
-```markdown
+
 <a name="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
