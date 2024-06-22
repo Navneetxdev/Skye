@@ -1,5 +1,4 @@
-Sure, I’ll make sure to keep the Python environment setup consistent throughout the template. Here is the updated README:
-
+###Skye - an advanced voice chatbot 
 
 <a name="readme-top"></a>
 <!--
