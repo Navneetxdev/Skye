@@ -19,12 +19,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/navneet-lakhera-656895238/]
 
 
 
@@ -59,7 +56,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This project is a voice chatbot designed to assist users who feel lonely or need a partner for daily activities like mock interviews. The chatbot, named Skye, communicates in a natural and human-like manner, providing support and companionship.
 
@@ -133,12 +129,11 @@ The chatbot will prompt you to either enter text or use voice input. Follow the 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Implement basic voice chatbot functionality
-- [ ] Enhance natural language processing capabilities
-- [ ] Add support for additional languages
-- [ ] Integrate with more external APIs
+- [✓] Implement basic voice chatbot functionality
+- [✓] Enhance natural language processing capabilities
+- [✓] Add support for additional languages
+- [-] Integrate with more external APIs
 
-See the [open issues](https://github.com/your_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
