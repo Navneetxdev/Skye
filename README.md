@@ -1,4 +1,4 @@
-### Skye - an advanced voice chatbot 
+## Skye - an advanced voice chatbot 
 
 <a name="readme-top"></a>
 <!--
@@ -21,7 +21,7 @@
 -->
 
 
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/navneet-lakhera-656895238/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -64,7 +64,6 @@ Here's why:
 * Utilizes state-of-the-art language models to generate human-like responses.
 * Incorporates voice recognition and speech synthesis to facilitate seamless interaction.
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,9 +168,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@Navneet](https://twitter.com/NavneetxDev) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,29 +195,18 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://www.linkedin.com/in/navneet-lakhera-656895238/
 [Python]: https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [Pyttsx3]: https://img.shields.io/badge/pyttsx3-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Pyttsx3-url]: https://pypi.org/project/pyttsx3/
-[Google Generative AI]: https://img.shields.io/badge/google%20generative%20
+[Google Generative AI]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
 
-ai-3776AB?style=for-the-badge&logo=google&logoColor=white
+
 [Google Generative AI-url]: https://cloud.google.com/vertex-ai
 [Speech Recognition]: https://img.shields.io/badge/speech%20recognition-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Speech Recognition-url]: https://pypi.org/project/SpeechRecognition/
-```
 
-This README should now be consistent with the project's requirements and focus solely on the Python environment setup. If you need any further adjustments or additional information, feel free to let me know!
