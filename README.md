@@ -96,7 +96,7 @@ Ensure you have the following installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/Project-Name.git
+   git clone https://github.com/Navneetxdev/Skye
    ```
 2. Install Python packages
    ```sh
